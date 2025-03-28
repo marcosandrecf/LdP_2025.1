@@ -1,3 +1,5 @@
+# Escreva um programa que leia uma lista de números e remova os valores duplicados, mantendo a ordem original.
+
 lista = []
 num = 0
 
