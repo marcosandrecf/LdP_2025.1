@@ -1,3 +1,5 @@
+# Escreva um programa que leia uma lista de números digitados pelo usuário e determine o maior e o menor número presentes na lista.
+
 lista = []
 maior = 0
 menor = 0
