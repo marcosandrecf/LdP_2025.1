@@ -1,3 +1,5 @@
+# Escreva um programa que peça ao usuário para inserir uma lista de números e um número específico. O programa deve contar quantas vezes esse número aparece na lista.
+
 lista = []
 x = 1
 
