@@ -1,3 +1,5 @@
+# Escreva um programa que solicite ao usuário uma lista de números inteiros e calcule a soma de todos os elementos da lista.
+
 x = 0
 total = 0
 while x >= 0:
