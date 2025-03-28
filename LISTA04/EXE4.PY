@@ -1,3 +1,5 @@
+# Escreva um programa que leia uma lista de palavras e exiba essa lista na ordem inversa.
+
 lista = []
 
 while True:
